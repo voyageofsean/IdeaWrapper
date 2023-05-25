@@ -4,6 +4,8 @@ A simplistic PowerPoint theme designed for academic purposes. It has been very p
 
 简洁的PowerPoint主题，适合学术使用。在我的同学间很受欢迎！
 
+![preview](https://github.com/voyageofsean/IdeaWrapper/blob/main/preview.png)
+
 ## Description 描述
 提供了两个文件：
 - `IdeaWrapper.thmx`不包含任何Logo的主文件。
